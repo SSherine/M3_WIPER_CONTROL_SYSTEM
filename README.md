@@ -9,5 +9,5 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 ##   Badges
 * Codacy - Static Code Analysis [![Codacy Badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/9c38a2fcde244f83adbcdbfae26d7f86)](https://www.codacy.com/gh/suryastark251/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=suryastark251/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade))
  
-* Codiga - Static Code Analysis [![Codiga badge](https://api.codiga.io/project/33452/score/svg)]
-* Codiga - Code Grade Analysis [![Codiga badge](https://api.codiga.io/project/33452/status/svg)]
+* Codiga - Static Code Analysis [![Codiga badge](https://api.codiga.io/project/33465/score/svg)]
+* Codiga - Code Grade Analysis [![Codiga badge](https://api.codiga.io/project/33465/status/svg)]
